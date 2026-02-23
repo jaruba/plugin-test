@@ -2,5 +2,6 @@
     "id": "test-plugin-2",
     "name": "Test Plugin",
     "domains": [],
-    "dependencies": []
+    "dependencies": [],
+    "luaUrl": "https://jaruba.github.io/plugin-test/my-plugin.lua"
 }
