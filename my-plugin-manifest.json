@@ -1,0 +1,6 @@
+{
+    "id": "test-plugin",
+    "name": "Test Plugin",
+    "domains": [],
+    "dependencies": []
+}
