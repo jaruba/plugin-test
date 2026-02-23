@@ -1,7 +1,7 @@
 function handle_request(req, res)
     local url = req.url
 
-    if url == "/plugins/my-plugin/secret" then
+    if url == "/plugins/test-plugin-2/secret" then
         res:setStatus(403)
         res:send("Access Denied to Secret Area")
     else
